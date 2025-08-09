@@ -1,6 +1,5 @@
 # 🍷 Wine Quality Prediction App
 A machine learning–powered web application built with **Streamlit** that predicts whether a red wine is of **good** or **bad** quality based on its chemical properties.  
-The model is trained on the **Wine Quality Red Dataset** from the UCI Machine Learning Repository.
 
 ![App Screenshot - Home Page](home.JPG)
 
